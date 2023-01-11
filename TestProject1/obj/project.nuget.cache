@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Mxc5rW6vPGvF435eom/zFv+OWTJyaNi//vlPIcxzpUIZEJhYYsk1tDjeNY7C2W34F3xYrfcMlr46ad1NW0HWA==",
+  "dgSpecHash": "I0COwUX2S2JAy9Ns7mY6cgKIfIvq3djrcf8cUAO+aT8rjjh/MKmD4k/lOFNu/sytvSOC99xk1OhihZGjQroEDg==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\Trainings\\.net_sample\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Workspace\\test\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nitin\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\nitin\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

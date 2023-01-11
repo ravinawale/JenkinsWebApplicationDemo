@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\Trainings\\.net_sample\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj": {}
+    "C:\\Workspace\\test\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\Trainings\\.net_sample\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj": {
+    "C:\\Workspace\\test\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\Trainings\\.net_sample\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj",
+        "projectUniqueName": "C:\\Workspace\\test\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj",
         "projectName": "TestProject1",
-        "projectPath": "C:\\Workspace\\Trainings\\.net_sample\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj",
+        "projectPath": "C:\\Workspace\\test\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj",
         "packagesPath": "C:\\Users\\nitin\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\Trainings\\.net_sample\\JenkinsWebApplicationDemo\\TestProject1\\obj\\",
+        "outputPath": "C:\\Workspace\\test\\JenkinsWebApplicationDemo\\TestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nitin\\AppData\\Roaming\\NuGet\\NuGet.Config",

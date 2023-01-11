@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\Trainings\\.net_sample\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
+      "projectUniqueName": "C:\\Workspace\\test\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
       "projectName": "JenkinsWebApplicationDemo",
-      "projectPath": "C:\\Workspace\\Trainings\\.net_sample\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
+      "projectPath": "C:\\Workspace\\test\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
       "packagesPath": "C:\\Users\\nitin\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\Trainings\\.net_sample\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\obj\\",
+      "outputPath": "C:\\Workspace\\test\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nitin\\AppData\\Roaming\\NuGet\\NuGet.Config",
