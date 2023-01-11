@@ -12,6 +12,7 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 //if (app.Environment.IsDevelopment())
 //{
+// New comment added
     app.UseSwagger();
     app.UseSwaggerUI();
 //}
