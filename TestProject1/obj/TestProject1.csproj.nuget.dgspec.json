@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj": {}
+    "C:\\Workspace\\test\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
-    "D:\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj": {
+    "C:\\Workspace\\test\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj",
+        "projectUniqueName": "C:\\Workspace\\test\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj",
         "projectName": "TestProject1",
-        "projectPath": "D:\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj",
-        "packagesPath": "C:\\Users\\PCP\\.nuget\\packages\\",
-        "outputPath": "D:\\JenkinsWebApplicationDemo\\TestProject1\\obj\\",
+        "projectPath": "C:\\Workspace\\test\\JenkinsWebApplicationDemo\\TestProject1\\TestProject1.csproj",
+        "packagesPath": "C:\\Users\\nitin\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\test\\JenkinsWebApplicationDemo\\TestProject1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\PCP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\nitin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,7 +67,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -81,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
