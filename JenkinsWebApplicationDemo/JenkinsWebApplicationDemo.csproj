@@ -20,7 +20,7 @@
     <None Update="today.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="today.txt">
+    <None Update="testing1234.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     
