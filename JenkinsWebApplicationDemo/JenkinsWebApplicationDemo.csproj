@@ -23,9 +23,6 @@
     <None Update="testing1234.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    
-    
-    
   </ItemGroup>
 
 </Project>
